@@ -1,5 +1,5 @@
 # SimpleCLICrapsSim
-Incomplete
+Incomplete (Old code)
 
 This is a simple CLI game based on the game of Craps.
 
