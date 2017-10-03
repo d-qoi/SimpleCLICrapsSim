@@ -21,7 +21,7 @@ int getChoice() {
 
 long long getLongLong() {
 	char buffer[20];
-	int chosen = 0;
+	long long chosen = 0;
 	fgets(buffer, sizeof(buffer), stdin);
 	sscanf(buffer, "%lld", &chosen);
 	printf("\n\n *** \n\n");
