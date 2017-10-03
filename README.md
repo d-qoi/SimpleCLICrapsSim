@@ -7,6 +7,5 @@ The game state will advance if players "roll" the dice, however the only bets th
 
 Most of the betting architecture is in place, but the implementation is not finished.
 
-Also may not have a makefile.
 
 The ArrayList code is completely generic.
